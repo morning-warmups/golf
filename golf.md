@@ -1,9 +1,9 @@
 ###Mini Golf Scores
 
-####Exercise 
+####Exercise
 Bob, Jimbo and Fish love mini golf. But, like all good golfers they enjoy the 19th hole the most. Every time they hand in their score cards none of the scores are ever totalled. Write a function called ```totalScores``` in JS that calculates their scores and 'console.logs' the total for the club house.
 
-#####Bob 
+#####Bob
 > Hole 1 = 3
 > Hole 2 = 2
 > Hole 3 = 6
@@ -14,7 +14,7 @@ Bob, Jimbo and Fish love mini golf. But, like all good golfers they enjoy the 19
 > Hole 8 = 9
 > Hole 9 = 10
 
-#####Jimbo 
+#####Jimbo
 > Hole 1 = 5
 > Hole 2 = 12
 > Hole 3 = 9
@@ -25,7 +25,7 @@ Bob, Jimbo and Fish love mini golf. But, like all good golfers they enjoy the 19
 > Hole 8 = 10
 > Hole 9 = 11
 
-#####Fish 
+#####Fish
 > Hole 1 = 2
 > Hole 2 = 2
 > Hole 3 = 4
@@ -36,7 +36,7 @@ Bob, Jimbo and Fish love mini golf. But, like all good golfers they enjoy the 19
 > Hole 8 = 4
 > Hole 9 = 1
 
-####Extension 
+####Extension
 Now work out each golfers round compared to the course par.
 
 #####Par
@@ -50,5 +50,17 @@ Now work out each golfers round compared to the course par.
 > Hole 8 = 3
 > Hole 9 = 5
 
+
+##Step 1
+Make an `index.html` and `app.js` files. Remember to link the javascript file through...
+_note: this is a console app so your program should run in the console only_
+
+##Step 2
+Get busy with da code.
+
+Remember to ask for assistance if you need.
+
+
+
 ####Ninja Extension
-Fish loves a punt. Having placed a $1 bet on each stroke over par that Bob and Jimbo played per hole calculate his winnings. 
+Fish loves a punt. Having placed a $1 bet on each stroke over par that Bob and Jimbo played per hole calculate his winnings.
